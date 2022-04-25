@@ -1,0 +1,6 @@
+Alberlet 50.2 5 13000
+CsaladiApartman 62.8 2 40000
+Garazs 10.3 5000 futott
+Alberlet 64.7 6 12000
+CsaladiApartman 110 7 50000
+Garazs 20 3000 Nemfutott
